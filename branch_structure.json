@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/scheduled-verification-revocation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/scheduled-verification-revocation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/scheduled-verification-revocation",
+    "origin"
+  ]
+}
